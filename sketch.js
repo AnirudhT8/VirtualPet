@@ -41,6 +41,7 @@ function draw(){
   textSize(100);
   stroke(2);
   text ("Food Stock: "+ readStock.data,500,200);
+  text ("Press Up Arrow key to feed your doggy",1700,200);
 }
 
   
